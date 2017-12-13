@@ -1,0 +1,32 @@
+{
+  "name": "wallapp",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Fernando Osegueda <luis.hernandez@creativaconsultores.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "moment": "^2.16.0",
+    "jquery-validation": "^1.15.1",
+    "font-awesome": "^4.7.0",
+    "humane-js": "humane#^3.2.2",
+    "jquery": "^2.2.4",
+    "bootbox.js": "bootbox#^4.4.0",
+    "datatables.net": "^1.10.12",
+    "datatables.net-bs": "^1.10.12",
+    "lightbox2": "^2.9.0",
+    "select2": "^4.0.3",
+    "waypoints": "^4.0.1"
+  }
+}
